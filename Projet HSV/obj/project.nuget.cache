@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mi9+yEuaqGMN+rTFBtRPg2Q8dgV11CiWtw5pYlB84P3saKSEToskKytSGSHi5qSlMv0FZVR6ecl0VkJmZAbbKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tom\\source\\repos\\Projet HSV Backup_05_10_23_23_05\\Projet HSV\\Projet HSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

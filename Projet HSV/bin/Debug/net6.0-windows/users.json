@@ -1,0 +1,68 @@
+[
+  {
+    "FirstName": "Alice",
+    "LastName": "Martinez",
+    "Password": "password123",
+    "Role": "client",
+    "Appointments": [
+      {
+        "Speciality": "Radiologie",
+        "Date": "2023-11-10",
+        "Time": "14:30",
+        "Status": "En attente",
+        "DoctorConfirmed": "Pierre Dupont"
+      }
+    ]
+  },
+  {
+    "FirstName": "Pierre",
+    "LastName": "Dupont",
+    "Password": "docpass456",
+    "Role": "doctor",
+    "Appointments": []
+  },
+  {
+    "FirstName": "Sophie",
+    "LastName": "Bernard",
+    "Password": "doctorpass012",
+    "Role": "doctor",
+    "Appointments": []
+  },
+  {
+    "FirstName": "test",
+    "LastName": "test",
+    "Password": "azerty",
+    "Role": "client",
+    "Appointments": []
+  },
+  {
+    "FirstName": "Lucas",
+    "LastName": "Leclerc",
+    "Password": "clientpass789",
+    "Role": "client",
+    "Appointments": [
+      {
+        "Speciality": "Cardiologie",
+        "Date": "2023-11-15",
+        "Time": "10:15",
+        "Status": "Refusé",
+        "DoctorConfirmed": "Pierre Dupont"
+      }
+    ]
+  },
+  {
+    "FirstName": "Thomas",
+    "LastName": "Girard",
+    "Password": "thomaspass345",
+    "Role": "client",
+    "Appointments": [
+      {
+        "Speciality": "Endocrinologie",
+        "Date": "2023-11-18",
+        "Time": "16:45",
+        "Status": "Confirmé",
+        "DoctorConfirmed": "Pierre Dupont"
+      }
+    ]
+  }
+]
